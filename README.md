@@ -1,7 +1,14 @@
 # HTTP Response codes in sexual situations
 I'm sorry future employer.
 
-This is not a comprehensive list. Feel free to submit a PR to add more or tweak some things.
+### 100 Range
+
+| Status Code | Sex Version        | MDN Version              |
+|-------------|--------------------|-------------------------------|
+| 100         | Keep Going         | Continue                      |
+| 101         | A New Hole         | Switching Protocols           |
+| 102         | Doin' It           | Processing                    |
+| 103         | Pre-Cum            | Early Hints                   |
 
 ### 200 Range
 
@@ -10,16 +17,23 @@ This is not a comprehensive list. Feel free to submit a PR to add more or tweak 
 | 200         | V-Card Lost        | OK                            |
 | 201         | Impregnated        | Created                       |
 | 202         | Permission Granted | Accepted                      |
-| 226         | You Got Used       | IM Used                       |
+| 203         | Sex Doll           | Non-Authoritative Information |
+| 204         | Unable To Cum      | No Content                    |
+| 205         |                    | Reset Content                 |
+| 206         |                    | Partial Content               |
 
 ### 300 Range
 
 | Status Code | Sex Version   | MDN Version |
-|-------------|---------------|------------------|
-| 300         | Too Many Hoes | Multiple Choice  |
-| 302         | Correct Hole  | Found            |
-| 303         | Cheating   | See Other        |
-| 305         | Get Rubber    | Use Proxy        |
+|-------------|--------------------|-------------------|
+| 300         | Too Many Hoes      | Multiple Choice   |
+| 301         | Found Someone Else | Moved Permanently |
+| 302         | Correct Hole       | Found             |
+| 303         | Cheating           | See Other         |
+
+| 305         | Get Rubber         | Use Proxy         |
+
+
 
 ### 400 Range
 
@@ -34,13 +48,13 @@ This is not a comprehensive list. Feel free to submit a PR to add more or tweak 
 | 406         | Not Satisfied            | Not Acceptable                |
 | 408         | Left On Read             | Request Timeout               |
 | 409         | Conflict                 | Conflict                      |
-| 410         | She left                 | Gone                          |
+| 410         | They left                | Gone                          |
 | 411         | Too Short                | Length Required               |
 | 413         | Too Much Cum             | Payload Too Large             |
 | 417         | Unrealistic Expectations | Expectation Failed            |
 | 425         | Didn't Last              | Too Early                     |
 | 429         | Let's Try Again Tomorrow | Too Many Requests             |
-| 451         | Sex Is Now Illegal       | Unavailable For Legal Reasons |
+| 451         | Child                    | Unavailable For Legal Reasons |
 
 ### 500 Range
 
