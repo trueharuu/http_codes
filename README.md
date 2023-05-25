@@ -3,7 +3,7 @@ I'm sorry future employer.
 
 ### 100 Range
 
-| Status Code | Sex Version        | MDN Version              |
+| Status Code | Sex Version        | MDN Version                   |
 |-------------|--------------------|-------------------------------|
 | 100         | Keep Going         | Continue                      |
 | 101         | A New Hole         | Switching Protocols           |
@@ -12,32 +12,29 @@ I'm sorry future employer.
 
 ### 200 Range
 
-| Status Code | Sex Version        | MDN Version              |
+| Status Code | Sex Version        | MDN Version                   |
 |-------------|--------------------|-------------------------------|
 | 200         | V-Card Lost        | OK                            |
 | 201         | Impregnated        | Created                       |
 | 202         | Permission Granted | Accepted                      |
 | 203         | Sex Doll           | Non-Authoritative Information |
 | 204         | Unable To Cum      | No Content                    |
-| 205         |                    | Reset Content                 |
-| 206         |                    | Partial Content               |
+| 205         | Fresh Start        | Reset Content                 |
+| 206         | On half-cock       | Partial Content               |
 
 ### 300 Range
 
-| Status Code | Sex Version   | MDN Version |
+| Status Code | Sex Version        | MDN Version       |
 |-------------|--------------------|-------------------|
 | 300         | Too Many Hoes      | Multiple Choice   |
 | 301         | Found Someone Else | Moved Permanently |
 | 302         | Correct Hole       | Found             |
 | 303         | Cheating           | See Other         |
-
 | 305         | Get Rubber         | Use Proxy         |
-
-
 
 ### 400 Range
 
-| Status Code | Sex Version              | MDN Version              |
+| Status Code | Sex Version              | MDN Version                   |
 |-------------|--------------------------|-------------------------------|
 | 400         | No Balls                 | Bad Request                   |
 | 401         | No Consent               | Unauthorized                  |
@@ -58,7 +55,7 @@ I'm sorry future employer.
 
 ### 500 Range
 
-| Status Code | Sex Version          | MDN Version |
+| Status Code | Sex Version          | MDN Version      |
 |-------------|----------------------|------------------|
 | 502         | Can't Finish         | Bad Gateway      |
 | 510         | Erectile Dysfunction | Not Extended     |
